@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GetCourse — Важный заказ + скрытие служебных задач (user + kanban)
 // @namespace    https://molodeem.online/
-// @version      1.0.1
+// @version      1.3.1
 // @description  Подсветка задач "Новый заказ" и скрытие служебных задач на карточке пользователя и в канбане сделок
 // @match        https://*.getcourse.ru/user/control/user/update/id/*
 // @match        https://*.getcourse.ru/user/control/user/update/id/*?*
